@@ -47,10 +47,10 @@ I'm a Computer Science Sophomore pursuing my B.Tech from PES University, India. 
 <!--<a href="https://t.me/aditeyabaral"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>-->
 
 ## 🏆 GitHub Stats
-![Aditeya Baral's Github stats](https://github-readme-stats.vercel.app/api?username=darshil-geek&count_private=true&theme=tokyonight)
+![Darshil Shah's Github stats](https://github-readme-stats.vercel.app/api?username=darshil-geek&count_private=true&theme=tokyonight)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshil-geek&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshil-geek&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<!--<img alt="Aditeya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aditeyabaral&theme=github"/>-->
+<!--<img alt="Darshil's's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=darshil-geek&theme=github"/>-->
